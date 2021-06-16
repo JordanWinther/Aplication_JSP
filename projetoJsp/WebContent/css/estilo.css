@@ -1,0 +1,37 @@
+@CHARSET "ISO-8859-1";
+
+.imagem_de_fundo{
+	background: url(fundo.jpg) no-repeat;
+}
+.colorbody{
+	background-color: #164162;
+	color: white;
+}
+.paddingForm {
+	padding-top: 10px;
+	padding-bottom:5px;
+	text-align: center;
+	border: 0px;
+	font: italic 16px Verdana, Sans-serif;
+}
+.paddingBtn {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 0px;
+	font: italic 16px Verdana, Sans-serif;
+}
+.position-center{
+	padding-left: 340px;
+	padding-top: 25px;
+}
+.acessoLiberado{
+	padding: 5px;
+	text-align: center;
+	background-color: #164162;
+	color: white;
+	border: 0px;
+	font: italic 18px Verdana, Sans-serif;
+}
+
+
